@@ -1,1 +1,2 @@
 # Expense-Tracker
+A simple expense tracker web application that allows users to add, view, and delete income and expense transactions. The application calculates and displays the total balance, income, and expenses.
